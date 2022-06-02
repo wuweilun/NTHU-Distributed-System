@@ -2,6 +2,6 @@ resources:
 # TODO: - comment-api
 - comment-gateway
 - comment-migration
-
+- comment-api
 commonLabels:
   module: comment
